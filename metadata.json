@@ -1,0 +1,6 @@
+{
+  "name": "Paws & Polish | Premium Pet Grooming",
+  "description": "From breed-standard clips to creative styling, our master groomers ensure your furry friends look and feel their absolute best.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
